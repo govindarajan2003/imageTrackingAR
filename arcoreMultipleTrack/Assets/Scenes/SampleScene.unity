@@ -417,8 +417,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   placeablePrefab:
-  - {fileID: 4910609191093997436, guid: aec1716075a045a49b4c5e81e4f21d5c, type: 3}
-  - {fileID: 4688611278446188795, guid: 5b20b6580d9eb5c46bdb7da069a28158, type: 3}
+  - {fileID: 8285276083615520815, guid: e7e7e596ca8b6aa47b9bcb1fca3cd000, type: 3}
+  - {fileID: 2668560116988669813, guid: bf0722fc1e009464c85a07c908c82fbb, type: 3}
   trackedImageManager: {fileID: 223974231}
 --- !u!114 &223974231
 MonoBehaviour:
